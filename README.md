@@ -32,5 +32,5 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
 
 ### Acknowledgement
 
-<li>[Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct): OCR Model used</li>
+<li>[Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct/): OCR Model used</li>
 
