@@ -32,5 +32,8 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
 
 ### Acknowledgement
 
-<li>[Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct/): OCR Model used</li>
+- [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL): OCR documentation
+- [Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct/): OCR Model used
+- [Gradio](https://www.gradio.app/docs): For web application
+- [huggingface](https://huggingface.co/): For deploying web application
 
