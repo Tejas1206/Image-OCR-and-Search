@@ -7,7 +7,7 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
    git clone https://github.com/Tejas1206/Image-OCR-and-Search.git
    cd Image-OCR-and-Search
    ```
-2. ***Set up a Virtual Environment**
+2. **Set up a Virtual Environment**
    ```Shell
     python3 -m venv venv
     venv\Scripts\activate  
