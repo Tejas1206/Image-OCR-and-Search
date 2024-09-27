@@ -29,6 +29,7 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
 <li>Upload an image containing Hindi and English text.</li>
 <li>View the extracted text displayed in the app.</li>
 <li>Enter keywords to search and view highlighted results.</li><br>
+
 **Screenshot**
 ![App screenshot](./Screenshot_27-9-2024_143253_huggingface.co.jpeg)
 
