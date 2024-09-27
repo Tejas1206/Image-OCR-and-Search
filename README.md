@@ -26,6 +26,12 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
 **huggingface link:** https://huggingface.co/spaces/tejas1206/ImageOCR
 
 **Usage:**
-<ul>Upload an image containing Hindi and English text.</ul>
-<ul>View the extracted text displayed in the app.</ul>
-<ul>Enter keywords to search and view highlighted results.</ul>
+<li>Upload an image containing Hindi and English text.</li>
+<li>View the extracted text displayed in the app.</li>
+<li>Enter keywords to search and view highlighted results.</li>
+
+### Acknowledgement
+
+<li>[Qwen/Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct): OCR Model used</li>
+<li></li>
+
